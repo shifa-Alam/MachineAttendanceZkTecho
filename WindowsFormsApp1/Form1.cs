@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using BioMetrixCore;
 
-namespace WindowsFormsApp1
+namespace WinForm
 {
     public partial class Form1 : Form
     {

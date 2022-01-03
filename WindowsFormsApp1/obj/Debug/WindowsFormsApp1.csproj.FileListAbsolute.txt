@@ -29,3 +29,12 @@ Z:\Rashed\AccessControl\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.J
 Z:\Rashed\AccessControl\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.Bson.pdb
 Z:\Rashed\AccessControl\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.Bson.xml
 Z:\Rashed\AccessControl\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\dotNetProject\MachineAttendanceZkTecho\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\dotNetProject\MachineAttendanceZkTecho\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\dotNetProject\MachineAttendanceZkTecho\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\dotNetProject\MachineAttendanceZkTecho\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\dotNetProject\MachineAttendanceZkTecho\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\dotNetProject\MachineAttendanceZkTecho\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\dotNetProject\MachineAttendanceZkTecho\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\dotNetProject\MachineAttendanceZkTecho\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\dotNetProject\MachineAttendanceZkTecho\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

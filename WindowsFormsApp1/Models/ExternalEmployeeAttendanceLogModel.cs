@@ -1,6 +1,6 @@
 using System;
 
-namespace WindowsFormsApp1
+namespace WinForm
 {
     
     public class ExternalEmployeeAttendanceLogModel
